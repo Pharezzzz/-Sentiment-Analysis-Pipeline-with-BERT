@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/phare/OneDrive%20-%20Major%20Oil%20Marketers%20Association%20of%20Nigeria/Documents/Data%20Science/Amazon%20Reviews/mlruns/0/f09522c7f7884f0d8c657f1ae2aa4816/artifacts
+end_time: 1737831790785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f09522c7f7884f0d8c657f1ae2aa4816
+run_name: ./results
+run_uuid: f09522c7f7884f0d8c657f1ae2aa4816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737829423709
+status: 3
+tags: []
+user_id: phare
